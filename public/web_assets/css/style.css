@@ -1,0 +1,168 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.title-main{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 66px;
+    color: #2B2B2B;
+}
+.text-p{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.copy-right{
+    font-size: 15px;
+    color: #ffffff;
+}
+.foot-col{
+    background-color: #17282F;
+    height: 36px;
+    padding: 8px;
+}
+.top-f-round{
+    background-color: #22A049;
+    height: 38px;
+    padding-top: 5px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.mar-l-20{
+    margin-left: 20px !important;
+}
+input::placeholder {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #818181 !important;
+}
+textarea::placeholder {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #818181 !important;
+}
+
+.box-border{
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 1px solid #9B9B9B;
+    box-shadow: 17px 244px 98px rgba(0, 0, 0, 0.01), 10px 137px 83px rgba(0, 0, 0, 0.04), 4px 61px 61px rgba(0, 0, 0, 0.06), 1px 15px 34px rgba(0, 0, 0, 0.07), 0px 0px 0px rgba(0, 0, 0, 0.07);
+}
+.f-text{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+}
+.btn-number{
+    background-color: #FEC40D !important;
+    border-radius: 8px !important;
+
+    font-family: 'Hind Siliguri', sans-serif;
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    line-height: 26px !important;
+    text-align: center !important;
+    color: #1D1D1D !important;
+    float: right;
+}
+.btn-c{
+    background-color: #22A049 !important;
+}
+.video-row iframe{
+    width: 100% !important;
+    height: 359px !important;
+    border-radius: 18px !important;
+}
+.v-r-title{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 71px;
+    color: #2B2B2B;
+    margin: auto;
+}
+.v-r-text{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.v-r-phone{
+    color: #1A1A1A;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.v-r-button{
+    border-radius: 4px !important;
+    background-color: #22A049 !important;
+    padding: 10px 12px !important;
+    color: #ffffff !important;
+    width: 110px !important;
+}
+.help-title{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #1D1D1D;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 49px;
+}
+.car-title{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: unset;
+}
+.car-text{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+.section-margin-top{
+    margin-top: 120Px !important;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .mar-l-20{
+        margin-left: unset !important;
+    }
+    .shadow-lg{
+        margin: unset !important;
+    }
+}
+
+
+
+
